@@ -5,9 +5,17 @@
 - I’m currently working on: [DakarHelper](https://github.com/Bagdad1970/DakarHelper) – Spring web app allows to load excel files from email and process them using custom rules
 - I’m currently learning: **React** and **Spring**.
 
+<br />
+
 My other pet projects:
 - [SearchingOptimization](https://github.com/Bagdad1970/SearchingOptimization) - PyQt app allows to find the global minimum of a function using various optimization methods
 - [TextReteller](https://github.com/Bagdad1970/TextReteller) - Web app on Python for text retelling using static algorithms and AI
+
+<br />
+
+Contacts:
+- Email: [cyberbruh123@gmail.com](https://cyberbruh123@gmail.com)
+- Telegram: [@bagdad213](https://t.me/@bagdad213)
 
 <br />
 
